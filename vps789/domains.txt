@@ -27,7 +27,6 @@ yg1.ygkkk.dpdns.org
 www.bangbenjiaju.com
 cf.468123.xyz
 cfgo.timelate.com
-www.sloomb.com
 dongbanghong.com
 www.vastnovel.com
 www.giannidelprete.it
@@ -71,6 +70,7 @@ www.mfyx.cn
 cmcc.cc.cd
 uspto.gov
 cdn.091224.xyz
+www.sloomb.com
 www.akasantech.com
 prompt.gzcrtw.com
 prizepicks.com
@@ -112,7 +112,6 @@ cf.877771.xyz
 leawo.org
 cf.cf.3666888.xyz
 5.cf.3666888.xyz
-yg8.ygkkk.dpdns.org
 hzytjy.cn
 china-telecom.cname.cloudflare.468123.xyz
 1749991941.bilibiliapp.cn
@@ -138,6 +137,7 @@ cdnjs.cloudflare.com
 keji.cf.3666888.xyz
 2.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
+yg8.ygkkk.dpdns.org
 www.galgamex.net
 www.xflash.vip
 cfip-cu.stoeaves.us.ci
@@ -145,6 +145,7 @@ cf.blogluo.eu.org
 images.chesscomfiles.com
 www.dbs.com.sg
 kali.download
+cf.drxian.dpdns.org
 digitalocean.com
 www.visa.com.tw
 www.whatismyip.com
@@ -153,6 +154,7 @@ unpkg.com
 rocketreach.co
 builtbybuffalo.com
 www.yutank.com
+cdn.2020111.xyz
 i.pages.dev
 ip.skk.moe
 cloudflare.cfgo.cc
@@ -185,9 +187,9 @@ mvnrepository.com
 store.epicgames.com
 pure.coupert.com
 worldvectorlogo.com
+cloudflare.com
 cdnjs.loli.net
 cm.cf.090902.xyz
-cdn.2020111.xyz
 cmcc.090227.xyz
 cmcc.877774.xyz
 bestcfv4.030101.xyz
@@ -196,5 +198,3 @@ www.hypixel.net
 stlouiscountymo.gov
 versantstore.pearson.com
 tinyurl.com
-networksolutions.com
-clickhouse.com
